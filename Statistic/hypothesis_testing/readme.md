@@ -25,7 +25,7 @@
 
 Ссылка: "https://raw.githubusercontent.com/trisha00001/file/e0204d73999332004b737957c901cb3819d2e462/BuyerRatio.csv"
 
-Гипотезы
+<img src ="https://github.com/trisha00001/Prof/blob/main/Statistic/image/h3.jpg?raw=true">
 
 4.) Компания TeleCall использует 4 центра по всему миру для обработки форм заказов клиентов. Они проверяют определённый процент форм заказов клиентов. Любая ошибка в форме заказа делает её дефектной, и такая форма должна быть исправлена перед дальнейшей обработкой.
 
@@ -34,7 +34,7 @@
 Файл с данными:  CustomerOrderform.csv
 
 Ссылка: "https://raw.githubusercontent.com/suchit96/Hypothesis_testing_CustomerOrderForm/refs/heads/main/CustomerOrderform.csv"
- 
+ <img src ="https://github.com/trisha00001/Prof/blob/main/Statistic/image/h2.png?raw=true">
 5.) Менеджеры по продажам компании Fantaloons отметили, что процент мужчин и женщин, посещающих магазин, различается в зависимости от дня недели.
 
 Проанализируйте данные и определите, имеются ли на уровне значимости 5% доказательства, подтверждающие данную гипотезу. (Пояснение: ХИ квадрат)
@@ -42,4 +42,4 @@
 Файл с данными: Fantaloons.csv
 
 Ссылка: "https://raw.githubusercontent.com/suchit96/Hypothesis_tesing_Fantaloons/refs/heads/main/Fantaloons.csv"
- 
+<img src ="https://github.com/trisha00001/Prof/blob/main/Statistic/image/h5.png?raw=true">
